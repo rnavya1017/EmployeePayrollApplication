@@ -482,34 +482,6 @@ ErrorResponse
 
 ---
 
-# 🌐 WebClient Integration
-
-The project uses Spring WebClient for external API communication.
-
-Configuration:
-
-```text
-WebClientConfig
-```
-
-Service:
-
-```text
-ExternalEmployeeService
-```
-
-External response DTOs include:
-
-```text
-ExternalEmployeeDTO
-ExternalAddressDTO
-ExternalCompanyDTO
-ExternalUserResponseDTO
-```
-
-This demonstrates how a Spring Boot application can consume external REST APIs.
-
----
 
 # 🔍 AOP Logging
 
